@@ -13,4 +13,4 @@ function LetterChanges(myString) {
     return output;
 }
 
-LetterChanges('ace'); // [b, d, f]
+console.log(LetterChanges('ace')); // [b, d, f]
